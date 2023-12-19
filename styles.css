@@ -79,7 +79,7 @@ header nav a:hover {
  {
     font-size: 18px;
     padding: 10px 20px;
-    border: 0;
+    border: 0; 
     outline: 0;
     background-color: #ececec;
     border-radius: 5px;

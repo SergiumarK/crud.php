@@ -11,7 +11,7 @@
 
             $sql = "INSERT INTO cars (brand, model, description, price, image) VALUES ('$brand', '$model', '$description', $price, '$image')";
 
-            $conn -> query($sql);
+            $conn -> query($sql);  
 
 
             header("Location: ./index.php" );

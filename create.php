@@ -26,7 +26,7 @@
             <textarea name="description" id="" cols="30" rows="10"></textarea>
             <input type="number" name="price" placeholder="Price" step="0.01">
             <input type="url" name="image" placeholder="image_address">
-            <button>Create</button>
+            <button>Create</button>  
         </form>
     </main>
 </body>

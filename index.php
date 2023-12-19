@@ -24,7 +24,7 @@
             <a href="index.php">Home</a>
             <a href="create.php">Create</a>
         </nav>
-    </header>
+    </header>  
 
     <main>
         <div class="catalog">
